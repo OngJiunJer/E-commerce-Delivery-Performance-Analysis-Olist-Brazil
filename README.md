@@ -5,6 +5,9 @@ This project analyzes **Olist_Brazil_Ecommerce_Delivery_Performance_Analysis** t
 
 Using **SQL for data preparation** and **Power BI for visualization**, the project answers key business questions related to delivery efficiency and customer reviews.
 
+## 📄 Dashboards (PDF):  
+Power BI Dashboard LINK: [LINK](https://app.powerbi.com/view?r=eyJrIjoiOWE1ZjdjZTMtOGY1Yi00MWIxLWI1YjQtZWY1ZDVlYWNlNDVjIiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ%3D%3D)
+
 ---
 
 ## 🎯 Business Questions Addressed
@@ -122,9 +125,6 @@ Using **SQL for data preparation** and **Power BI for visualization**, the proje
 - Review score comparison (delayed vs on-time)
 - Review score distribution
 - Customer satisfaction impact analysis
-
-### 📄 Dashboards (PDF):  
-Power BI Dashboard LINK: [LINK](https://app.powerbi.com/view?r=eyJrIjoiOWE1ZjdjZTMtOGY1Yi00MWIxLWI1YjQtZWY1ZDVlYWNlNDVjIiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ%3D%3D)
 
 ---
 
