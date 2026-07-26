@@ -124,8 +124,7 @@ Using **SQL for data preparation** and **Power BI for visualization**, the proje
 - Customer satisfaction impact analysis
 
 ### 📄 Dashboards (PDF):  
-[Dashboard](https://app.powerbi.com/groups/me/reports/3c22b221-eb88-438d-88c6-d52edc1b9c4d/8c7a27f21e83c950e11d?experience=power-bi)
-👉 [Download / View PDF](Olist_Brazil_Ecommerce_Delivery_Performance_Dashboard.pdf)
+Power BI Dashboard LINK: [LINK](https://app.powerbi.com/groups/me/reports/3c22b221-eb88-438d-88c6-d52edc1b9c4d/8c7a27f21e83c950e11d?experience=power-bi)
 
 ---
 
