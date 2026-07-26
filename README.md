@@ -124,7 +124,7 @@ Using **SQL for data preparation** and **Power BI for visualization**, the proje
 - Customer satisfaction impact analysis
 
 ### 📄 Dashboards (PDF):  
-Power BI Dashboard LINK: [LINK](https://app.powerbi.com/groups/me/reports/3c22b221-eb88-438d-88c6-d52edc1b9c4d/8c7a27f21e83c950e11d?experience=power-bi)
+Power BI Dashboard LINK: [LINK](https://app.powerbi.com/view?r=eyJrIjoiOWE1ZjdjZTMtOGY1Yi00MWIxLWI1YjQtZWY1ZDVlYWNlNDVjIiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ%3D%3D)
 
 ---
 
